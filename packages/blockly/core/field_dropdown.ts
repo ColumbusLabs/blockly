@@ -262,6 +262,7 @@ export class FieldDropdown extends Field<string> {
       },
       this.fieldGroup_,
     );
+    aria.setState(this.svgArrow, aria.State.HIDDEN, true);
     this.svgArrow!.setAttributeNS(
       dom.XLINK_NS,
       'xlink:href',
