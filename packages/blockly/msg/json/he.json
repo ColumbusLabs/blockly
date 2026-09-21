@@ -422,7 +422,7 @@
 	"KEYBOARD_NAV_CUT_HINT": "נגזרה. יש ללחוץ על %1 להדבקה.",
 	"BLOCK_LABEL_TOOLBOX_CATEGORY": "קטגוריית %1",
 	"BLOCK_LABEL_DISABLED": "כבוי",
-	"BLOCK_LABEL_COLLAPSED": "מצומצם",
+	"BLOCK_LABEL_COLLAPSED": "מוסתר",
 	"BLOCK_LABEL_VALUE": "ערך",
 	"INPUT_LABEL_INDEX": "קלט %1",
 	"INPUT_LABEL_EMPTY": "ריק",
